@@ -1,0 +1,2 @@
+# Translate
+Переводы ocStore

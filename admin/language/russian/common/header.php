@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']        		= 'ocStore';
+$_['heading_title']        		= 'OpenCart (Перевод ocStore)';
 
 // Text
 $_['text_order']          		= 'Заказы';
@@ -18,6 +18,6 @@ $_['text_store']          		= 'Магазины';
 $_['text_front']          		= 'Магазин';
 $_['text_help']          		= 'Помощь';
 $_['text_homepage']          	= 'Главная';
-$_['text_support']          	= 'Форум ocStore';
+$_['text_support']          	= 'Форум поддержки';
 $_['text_documentation']        = 'Документация';
 $_['text_logout']          		= 'Выход';
